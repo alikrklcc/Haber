@@ -1,0 +1,15 @@
+.form-wrapper{
+    text-align: center;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.form-wrapper > .form-group{
+    margin-top: 30px !important;
+    width: 50%;
+    margin: auto;
+}
+.inputLabel{
+    margin-top: 10px;
+    font-size: medium;
+    font-weight: 600;
+}
